@@ -1,7 +1,7 @@
 Taxi Service Multi-agent Systems using JADE
 ---
 ##### Author:
-Umang Barbhaya\
+Umang Barbhaya
 
 ---
 #### Process Followed:
